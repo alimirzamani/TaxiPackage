@@ -3,4 +3,8 @@ public struct TaxiPackage {
 
     public init() {
     }
+
+    public func printText() {
+        print(text)
+    }
 }
